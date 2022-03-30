@@ -1,5 +1,7 @@
 ### Hi! welcome to my Github 👋
 
+Computer Engineer, working in web design and development areas. I have great interest in front-end development and UI/UX design.
+- 🔭 I’m currently working on pixonauta.com and scribana.shop
 <!--
 **angelmavare/angelmavare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on pixonauta.com and scribana.shop
+
+
+
+### :hammer_and_wrench: Languages and Tools :-->
