@@ -1,5 +1,5 @@
-<!-- ![App Screenshot](https://raw.githubusercontent.com/angelmavare/angelmavare/main/screenshots/bannerGithub.jpg) -->
-![App Screenshot](https://raw.githubusercontent.com/angelmavare/angelmavare/main/screenshots/linkedin3.jpg)
+![App Screenshot](https://raw.githubusercontent.com/angelmavare/angelmavare/main/screenshots/bannerGithub.jpg)
+<!-- ![App Screenshot](https://raw.githubusercontent.com/angelmavare/angelmavare/main/screenshots/linkedin3.jpg) -->
 
 ### Hello! I'm Angel, front-end web developer from Vzla👋
 
