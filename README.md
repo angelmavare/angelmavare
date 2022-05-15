@@ -1,3 +1,4 @@
+![App Screenshot](https://raw.githubusercontent.com/angelmavare/angelmavare/main/screenshots/bannerGithub.jpg)
 ### Hi! welcome to my Github 👋
 
 Computer Engineer, working in web design and development areas. I have great interest in front-end development and UI/UX design.
