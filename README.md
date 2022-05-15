@@ -1,5 +1,7 @@
 ![App Screenshot](https://raw.githubusercontent.com/angelmavare/angelmavare/main/screenshots/bannerGithub.jpg)
 <!-- ![App Screenshot](https://raw.githubusercontent.com/angelmavare/angelmavare/main/screenshots/linkedin3.jpg) -->
+[![Linkedin](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)](https://twitter.com)
+[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
 
 ### Hello! I'm Angel, front-end web developer from Vzla👋
 
