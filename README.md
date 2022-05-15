@@ -3,6 +3,10 @@
 [![Linkedin](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)](https://twitter.com)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
 
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
+[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
+
 ### Hello! I'm Angel, front-end web developer from Vzla👋
 
 ⚡ I work in the web design and web development areas. I've great interest in Front-End development and UX/UI design.
