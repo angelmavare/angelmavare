@@ -10,7 +10,7 @@ Badges in: https://github.com/alexandresanlim/Badges4-README.md-Profile
 -------------------------------------------------------------------------->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mavare-801b12104/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angelmavare1)
-[![Portfolio](https://badgen.net/badge/portfolio/black?icon=chrome)](https://angelmavare.pixonauta.com)
+[![Portfolio](https://badgen.net/badge/portfolio/website/black?icon=chrome)](https://angelmavare.pixonauta.com)
 
 <!-- [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
