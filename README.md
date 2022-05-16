@@ -11,9 +11,9 @@ https://badgen.net/
 
 
 [![Linkedin](https://badgen.net/badge/in/Linkedin/blue)](https://www.linkedin.com/in/angel-mavare-801b12104/)
-[![Twitter](https://badgen.net/badge/icon/twitter/cyan?icon=twitter&label)](https://twitter.com/angelmavare1)
-[![Portfolio](https://badgen.net/badge/icon/portfolio/orange?icon=chrome&label)](https://angelmavare.pixonauta.com)
-[![Blog](https://badgen.net/badge/icon/portfolio/purple?icon=bitcoin-lightning&label)](https://pixonauta.com)
+[![Twitter](https://badgen.net/badge/icon/Twitter/cyan?icon=twitter&label)](https://twitter.com/angelmavare1)
+[![Portfolio](https://badgen.net/badge/icon/Portfolio/green?icon=chrome&label)](https://angelmavare.pixonauta.com)
+[![Blog](https://badgen.net/badge/icon/Blog/purple?icon=bitcoin-lightning&label)](https://pixonauta.com)
 
 <!-- [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
