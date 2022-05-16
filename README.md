@@ -1,21 +1,19 @@
 ![App Screenshot](https://raw.githubusercontent.com/angelmavare/angelmavare/main/screenshots/bannerGithub.jpg)
 <!-- ![App Screenshot](https://raw.githubusercontent.com/angelmavare/angelmavare/main/screenshots/linkedin3.jpg) -->
-<!-- [![Linkedin](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)](https://twitter.com)
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com) -->
 
 <!-- 
 NOTE:
 --------------------------------------------------------------------------
 Badges in: https://github.com/alexandresanlim/Badges4-README.md-Profile 
 https://forthebadge.com
+https://badgen.net/
 -------------------------------------------------------------------------->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mavare-801b12104/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angelmavare1)
 
 
 [![Linkedin](https://badgen.net/badge/in/Linkedin/blue)](https://www.linkedin.com/in/angel-mavare-801b12104/)
 [![Twitter](https://badgen.net/badge/icon/twitter/cyan?icon=twitter&label)](https://twitter.com/angelmavare1)
-[![Portfolio](https://badgen.net/badge/icon/portfolio/green?icon=chrome&label)](https://angelmavare.pixonauta.com)
+[![Portfolio](https://badgen.net/badge/icon/portfolio/orange?icon=chrome&label)](https://angelmavare.pixonauta.com)
+[![Blog](https://badgen.net/badge/icon/portfolio/purple?icon=bitcoin-lightning&label)](https://pixonauta.com)
 
 <!-- [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
