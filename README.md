@@ -18,14 +18,24 @@ https://badgen.net/
 <!-- [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/) -->
-<p align="center">
-### Hello! I'm Angel, front-end web developer from Vzla👋
-</p>
-⚡ I work in the web design and web development areas. I've great interest in Front-End development and UX/UI design.
 
+<!-- ### Hello! I'm Angel, front-end web developer from Vzla👋 -->
+<h3 align="center">
+<strong>
+    Hello! I'm Angel, front-end web developer from Vzla👋
+</strong>
+</h3>
+<h2 align="center">
+<strong>
+    Hello! I'm Angel, front-end web developer from Vzla👋
+</strong>
+</h2>
+<pre>
+⚡ I work in the web design and web development areas. I've great interest in Front-End development and UX/UI design.
+</pre>
 🌱 I have more than 7 years providing solutions to companies that want to enter the digital world and take the next step to be on the internet.
 
-🔭 I’m currently working on pixonauta.com and scribana.shop
+🔭 I’m currently working on **pixonauta.com** and **scribana.shop**
 <!--
 **angelmavare/angelmavare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
