@@ -19,7 +19,7 @@ https://badgen.net/
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/) -->
 
-### <p style="text-align: center;">Hello! I'm Angel, front-end web developer from Vzla👋</p>
+<p style="text-align: center;font-size:17.5; font-weight:600">Hello! I'm Angel, front-end web developer from Vzla👋</p>
 
 ⚡ I work in the web design and web development areas. I've great interest in Front-End development and UX/UI design.
 
