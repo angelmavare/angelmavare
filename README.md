@@ -18,7 +18,7 @@ https://badgen.net/
 <!-- [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/) -->
-
+<hr>
 <h3 align="center">
 <strong>
     Hello! I'm Angel, front-end web developer from Vzla👋
