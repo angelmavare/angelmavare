@@ -19,20 +19,15 @@ https://badgen.net/
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/) -->
 
-### Hello! I'm Angel, front-end web developer from Vzla👋
 <h3 align="center">
 <strong>
     Hello! I'm Angel, front-end web developer from Vzla👋
 </strong>
 </h3>
-<h2 align="center">
-<strong>
-    Hello! I'm Angel, front-end web developer from Vzla👋
-</strong>
-</h2>
-<pre>
+<hr>
+
 ⚡ I work in the web design and web development areas. I've great interest in Front-End development and UX/UI design.
-</pre>
+
 🌱 I have more than 7 years providing solutions to companies that want to enter the digital world and take the next step to be on the internet.
 
 🔭 I’m currently working on **pixonauta.com** and **scribana.shop**
