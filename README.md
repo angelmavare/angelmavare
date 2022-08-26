@@ -9,7 +9,7 @@ https://forthebadge.com
 https://badgen.net/
 -------------------------------------------------------------------------->
 
-[![About me](https://badgen.net/badge/icon/Aboutme/cyan?icon=chrome&label)](https://angelmavare.carrd.co/)
+[![About me](https://badgen.net/badge/icon/About-me/cyan?icon=chrome&label)](https://angelmavare.carrd.co/)
 [![Blog](https://badgen.net/badge/icon/Blog/orange?icon=bitcoin-lightning&label)](https://pixonauta.com)
 
 <!-- [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
