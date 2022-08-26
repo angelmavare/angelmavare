@@ -9,10 +9,7 @@ https://forthebadge.com
 https://badgen.net/
 -------------------------------------------------------------------------->
 
-
-[![Linkedin](https://badgen.net/badge/in/Linkedin/blue)](https://www.linkedin.com/in/angel-mavare-801b12104/)
-[![Twitter](https://badgen.net/badge/icon/Twitter/cyan?icon=twitter&label)](https://twitter.com/angelmavare1)
-[![Portfolio](https://badgen.net/badge/icon/Portfolio/green?icon=chrome&label)](https://angelmavare.pixonauta.com)
+[![About me](https://badgen.net/badge/icon/Portfolio/cyan?icon=chrome&label)](https://angelmavare.carrd.co/)
 [![Blog](https://badgen.net/badge/icon/Blog/orange?icon=bitcoin-lightning&label)](https://pixonauta.com)
 
 <!-- [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
