@@ -23,11 +23,11 @@ https://badgen.net/
 </h3>
 <hr>
 
-⚡ I work in the web design and web development areas. I've great interest in Front-End development and UX/UI design.
+⚡ I work in the web design and web development areas. I've great interest in Front-End development.
 
 🌱 I have more than 7 years providing solutions to companies that want to enter the digital world and take the next step to be on the internet.
 
-🔭 I’m currently working on **pixonauta.com** and **scribana.shop**
+🔭 I’m currently working on **Designful Inc** and **Pixonauta.com**
 <!--
 **angelmavare/angelmavare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
