@@ -23,9 +23,9 @@ https://badgen.net/
 </h3>
 <hr>
 
-⚡ I work in the web design and web development areas. I've great interest in Front-End development.
+⚡ I work in web design and development, with a strong interest in front-end development.
 
-🌱 I have more than 7 years providing solutions to companies that want to enter the digital world and take the next step to be on the internet.
+🌱 I have over 7 years of experience providing solutions to companies that want to enter the digital world and take the next step to have an online presence.
 
 🔭 I’m currently working on **Designful Inc** and **Pixonauta.com**
 <!--
